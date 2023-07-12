@@ -2,10 +2,10 @@
 cron parser for take home assignment
 
 works for string parameter eg:  
-node index.js "10,9,13-50/4 0-23 2,4 */3 * usr/bin/"    
+**node index.js "10,9,13-50/4 0-23 2,4 */3 * usr/bin/"**    
 
 for running tests:  
-npm test  
+**npm test**  
 
 '*'	any value  
 ','	value list separator  
